@@ -1,2 +1,0 @@
-# ionictest
-Testing out ionic
